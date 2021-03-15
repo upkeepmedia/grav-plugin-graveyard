@@ -25,3 +25,7 @@ form:
         0: Disabled
       validate:
         type: bool
+    graveyard:
+      type: array
+      label: 410 Pages
+      value_only: true
